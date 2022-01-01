@@ -2,21 +2,19 @@
   <img width="1000px" src="readme.gif" alt="hello">
 </p>
 <br><br>
+ 
+### :wave: I'm a 19-year-old engineering student, who loves to code and learn new things. <br>
+### 🎯 My goal is to contribute to open-source as much as possible and learn new things.<br>
+### 🤝 I am always open to collaborating and connecting to people.<br>
+### 🌱 I’m currently learning DSA and C++ Advanced Topics<br> 
+    
+	
+  <img src="https://github.githubassets.com/images/mona-whisper.gif" width="27px"> ![](https://komarev.com/ghpvc/?username=Anuragmaurya-code)
+	
 
 <hr>
-<p>
-  <samp>
-    :wave: I'm a 19-year-old engineering student, who loves to code and learn new things. <br>
-    🎯 My goal is to contribute to open-source as much as possible and learn new things.<br>
-    🤝 I am always open to collaborating and connecting to people.<br>
-    🌱 I’m currently learning DSA and C++ Advanced Topics<br>
- 
-  </samp>
-  
-  <img src="https://github.githubassets.com/images/mona-whisper.gif" width="27px"> ![](https://komarev.com/ghpvc/?username=Anuragmaurya-code)
-  
-</p>
-## Languages and Tools:
+
+ # Languages and Tools:
 <p align="left">
 <img src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/c.svg" height="50"/>
 <img src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/c%2B%2B.svg" height="50"/>
@@ -27,10 +25,9 @@
 <img src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/anaconda.svg" height="50"/>
 
 </p>
-<br />
-<br />
 
-<br/>  
+<hr>
+  
 
  [![Anurag's github activity graph](https://activity-graph.herokuapp.com/graph?username=Anuragmaurya-code&theme=xcode)](https://git.io/Anuragmaurya-code)
 <p align="center">
