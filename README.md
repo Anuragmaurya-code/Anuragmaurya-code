@@ -16,6 +16,19 @@
   <img src="https://github.githubassets.com/images/mona-whisper.gif" width="27px"> ![](https://komarev.com/ghpvc/?username=Anuragmaurya-code)
   
 </p>
+## Languages and Tools:
+<p align="left">
+<img src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/c.svg" height="50"/>
+<img src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/c%2B%2B.svg" height="50"/>
+<img src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/html.svg" height="50"/>
+<img src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/python.svg" height="50"/>
+<img src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/git.svg" height="50"/>
+<img src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/vscode.svg" height="50"/>
+<img src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/anconda.svg" height="50"/>
+
+</p>
+<br />
+<br />
 
 <br/>  
 
