@@ -1,7 +1,6 @@
 <p align="center">
     <img width="1000px" src="readme.gif" alt="hello">
 </p>
-<br><br>
 
 #### :wave: I'm a 19-year-old engineering student, who loves to code and learn new things. <br>
 #### 🎯 My goal is to contribute to open-source and learn new things as much as possible.<br>
