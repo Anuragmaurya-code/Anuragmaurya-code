@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1000px" src="readme.gif" alt="hello">
+  <img width="1000px" src="readme2.gif" alt="hello">
 </p>
 <br><br>
  
@@ -16,13 +16,13 @@
 
  # Languages and Tools:
 <p align="left">
-<img src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/c.svg" height="50"/>
-<img src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/c%2B%2B.svg" height="50"/>
-<img src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/html.svg" height="50"/>
-<img src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/python.svg" height="50"/>
-<img src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/git.svg" height="50"/>
-<img src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/vscode.svg" height="50"/>
-<img src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/anaconda.svg" height="50"/>
+<img src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/c.svg" height="50" alt="C programming language"/>
+<img src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/c%2B%2B.svg" height="50" alt="C++ programming language"/>
+<img src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/html.svg" height="50" alt="HTML"/>
+<img src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/python.svg" height="50" alt="Python"/>
+<img src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/git.svg" height="50" alt="Git"/>
+<img src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/vscode.svg" height="50" alt="Visual studio code"/>
+<img src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/anaconda.svg" height="50" alt="anaconda"/>
 
 </p>
 
@@ -42,6 +42,5 @@
   <p align="center">
     <a href="https://twitter.com/Anurag_799" alt="Twitter"><img src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/twitter.svg"></a>
     <a href="https://www.linkedin.com/in/anurag-maurya-32a88a200/" alt="Linkedin"><img src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/linkedin.svg"></a>
-    <a href="https://github.com/Anuragmaurya-code" alt="GitHub"><img src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/github.svg"></a>
   </p>
 </p>
