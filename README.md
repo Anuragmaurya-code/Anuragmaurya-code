@@ -9,12 +9,10 @@
 ### 🌱 I’m currently learning DSA and C++ Advanced Topics<br> 
     
 	
-  <img src="https://github.githubassets.com/images/mona-whisper.gif" width="27px"> ![](https://komarev.com/ghpvc/?username=Anuragmaurya-code)
-	
 
 <hr>
 
- # Languages and Tools:
+ # <img src="https://github.githubassets.com/images/mona-whisper.gif" width="27px"> Languages and Tools:
 <p align="left">
 <img src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/c.svg" height="50" alt="C programming language"/>
 <img src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/c%2B%2B.svg" height="50" alt="C++ programming language"/>
@@ -29,11 +27,12 @@
 <hr>
   
 
- [![Anurag's github activity graph](https://activity-graph.herokuapp.com/graph?username=Anuragmaurya-code&theme=xcode)](https://git.io/Anuragmaurya-code)
+ 
 <p align="center">
 	
+[![Anurag's github activity graph](https://activity-graph.herokuapp.com/graph?username=Anuragmaurya-code&theme=xcode)](https://git.io/Anuragmaurya-code)
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anuragmaurya-code&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anuragmaurya-code&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anuragmaurya-code&show_icons=true&theme=tokyonight" />
 </p>
 
 <hr>
