@@ -3,10 +3,10 @@
 </p>
 <br><br>
 
-### :wave: I'm a 19-year-old engineering student, who loves to code and learn new things. <br>
-### 🎯 My goal is to contribute to open-source and learn new things as much as possible.<br>
-### 🤝 I'm always open to collaborating and connecting to people.<br>
-### 🌱 Currently i am learning DSA and C++ Advanced Topics<br>
+#### :wave: I'm a 19-year-old engineering student, who loves to code and learn new things. <br>
+#### 🎯 My goal is to contribute to open-source and learn new things as much as possible.<br>
+#### 🤝 I'm always open to collaborating and connecting to people.<br>
+#### 🌱 Currently i am learning DSA and C++ Advanced Topics<br>
 
 <details>
     <summary><img src="https://github.githubassets.com/images/mona-whisper.gif" width="27px">  Show Languages and Tools used:
