@@ -24,7 +24,7 @@
 <img src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/python.svg" height="50"/>
 <img src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/git.svg" height="50"/>
 <img src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/vscode.svg" height="50"/>
-<img src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/anconda.svg" height="50"/>
+<img src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/anaconda.svg" height="50"/>
 
 </p>
 <br />
