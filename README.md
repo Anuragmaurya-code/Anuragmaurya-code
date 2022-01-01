@@ -3,16 +3,17 @@
 </p>
 <br><br>
  
-### :wave: I'm a 19-year-old engineering student, who loves to code and learn new things. <br>
-### 🎯 My goal is to contribute to open-source as much as possible and learn new things.<br>
-### 🤝 I am always open to collaborating and connecting to people.<br>
-### 🌱 I’m currently learning DSA and C++ Advanced Topics<br> 
+#### :wave: I'm a 19-year-old engineering student, who loves to code and learn new things. <br>
+#### 🎯 My goal is to contribute to open-source as much as possible and learn new things.<br>
+#### 🤝 I am always open to collaborating and connecting to people.<br>
+#### 🌱 I’m currently learning DSA and C++ Advanced Topics<br> 
     
 	
 
 <hr>
-
- # <img src="https://github.githubassets.com/images/mona-whisper.gif" width="27px"> Languages and Tools:
+<details>
+	
+ <summary><img src="https://github.githubassets.com/images/mona-whisper.gif" width="27px"> Languages and Tools:</summary>
 <p align="left">
 <img src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/c.svg" height="50" alt="C programming language"/>
 <img src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/c%2B%2B.svg" height="50" alt="C++ programming language"/>
@@ -23,16 +24,17 @@
 <img src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/anaconda.svg" height="50" alt="anaconda"/>
 
 </p>
-
-<hr>
+</details>
   
-
- 
+ <details>
+	<summary>  📈 Show github stats</summary>
 <p align="center">
 	
-![Anurag's github activity graph](https://activity-graph.herokuapp.com/graph?username=Anuragmaurya-code&theme=xcode)
- <img width="49.7%" src="https://github-readme-stats.vercel.app/api?username=Anuragmaurya-code&show_icons=true&theme=tokyonight"/>
- <img width="49.7%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anuragmaurya-code&show_icons=true&theme=tokyonight" />
+![Anurag's github activity graph](https://activity-graph.herokuapp.com/graph?username=Anuragmaurya-code&theme=xcode&border_color=white)
+ <img width="49.7%" src="https://github-readme-stats.vercel.app/api?username=Anuragmaurya-code&show_icons=true&theme=tokyonight&hide_border=true"/>
+ <img width="49.7%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anuragmaurya-code&show_icons=true&theme=tokyonight&hide_border=true" />
+	</details>
+	
 </p>
 
 <hr>
