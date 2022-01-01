@@ -48,5 +48,7 @@
                 src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/twitter.svg"></a>
         <a href="https://www.linkedin.com/in/anurag-maurya-32a88a200/" alt="Linkedin"><img
                 src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/linkedin.svg"></a>
+        <a href="mailto:mauryaanurag375@gmail.com" alt="gmail"><img
+                src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/gmail.svg"></a>
     </p>
 </p>
