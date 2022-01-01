@@ -1,6 +1,31 @@
 <p align="center">
   <img width="1000px" src="readme.gif" alt="hello">
 </p>
+<br><br>
+
+<hr>
+<p>
+  <samp>
+    :wave: I'm a 19-year-old engineering student, who loves to code and learn new things. <br>
+    🎯 My goal is to contribute to open-source as much as possible and learn new things.<br>
+    🤝 I am always open to collaborating and connecting to people.<br>
+    🌱 I’m currently learning DSA and C++ Advanced Topics<br>
+ 
+  </samp>
+  
+  <img src="https://github.githubassets.com/images/mona-whisper.gif" width="27px"> ![](https://komarev.com/ghpvc/?username=Anuragmaurya-code)
+  
+</p>
+
+<br/>  
+
+ [![Anurag's github activity graph](https://activity-graph.herokuapp.com/graph?username=Anuragmaurya-code&theme=xcode)](https://git.io/Anuragmaurya-code)
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anuragmaurya-code&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anuragmaurya-code&theme=tokyonight" />
+</p>
+
 <hr>
 <p align="center">
   <i>Find me around the web 🌎</i>
