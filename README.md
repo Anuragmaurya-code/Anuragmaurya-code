@@ -30,9 +30,9 @@
  
 <p align="center">
 	
-[![Anurag's github activity graph](https://activity-graph.herokuapp.com/graph?username=Anuragmaurya-code&theme=xcode)](https://git.io/Anuragmaurya-code)
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anuragmaurya-code&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anuragmaurya-code&show_icons=true&theme=tokyonight" />
+![Anurag's github activity graph](https://activity-graph.herokuapp.com/graph?username=Anuragmaurya-code&theme=xcode)
+ <img width="49.7%" src="https://github-readme-stats.vercel.app/api?username=Anuragmaurya-code&show_icons=true&theme=tokyonight"/>
+ <img width="49.7%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anuragmaurya-code&show_icons=true&theme=tokyonight" />
 </p>
 
 <hr>
