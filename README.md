@@ -9,7 +9,7 @@
 #### 🌱 Currently I am learning DSA and C++ Advanced Topics<br>
 
 <details>
-    <summary><img src="https://github.githubassets.com/images/mona-whisper.gif" width="27px">  Show Languages and Tools used
+    <summary><img src="https://github.githubassets.com/images/mona-whisper.gif" height="27px">  Show Languages and Tools used
     </summary>
     <p align="left">
         <img src="https://github.com/Anuragmaurya-code/Anuragmaurya-code/blob/master/assests/c.svg" height="50"
